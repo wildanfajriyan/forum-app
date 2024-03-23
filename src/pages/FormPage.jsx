@@ -35,7 +35,7 @@ function FormPage() {
     <div className="flex items-center justify-center  h-screen bg-slate-200">
       <div className="bg-white p-12 rounded h-[500px]">
         <h1 className="text-center font-caveat text-5xl">
-          Forum
+          Forum App
         </h1>
         <div className="my-6">
           <button
